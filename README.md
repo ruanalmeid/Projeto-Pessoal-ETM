@@ -3,4 +3,4 @@
 O ESTUDA-MAIS é um projeto inicialmente criado para ajudar alunos de ensino médio nos estudo para o ENEM.
 
 Foto do projeto no expo.dev
-[FOT0-EXPo](./assets/foto-dev-expo.png)
+![FOT0-EXPo](./assets/foto-dev-expo.png)
